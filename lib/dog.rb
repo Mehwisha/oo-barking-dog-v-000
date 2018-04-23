@@ -7,7 +7,7 @@ def name=(new_name)
 @name
  end
 def bark
-puts "woof"
+puts "woof!"
 
 end
 end
